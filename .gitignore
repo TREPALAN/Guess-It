@@ -1,1 +1,3 @@
 .venv
+.env
+what_am_i/migrations
